@@ -1,0 +1,20 @@
+- Payment Terms are conditions agreed between business and customers for the payment of invoices.
+- Selecting Payment Terms and Methods are key things in fulfillment of any order process.
+-
+- ### Payment process diagram
+- ![image](https://nightlies.apache.org/ofbiz/trunk/ofbiz/html5/images/order/payment-terms_level2.png)
+-
+- [Select Payment Term](https://nightlies.apache.org/ofbiz/trunk/ofbiz/html5/user-manual.html#_order_term)
+- [Select Payment Method](https://nightlies.apache.org/ofbiz/trunk/ofbiz/html5/user-manual.html#_payment_setting)
+-
+- ### Payment Method diagram
+- Depending on payment method process is not exactly the same.
+- #### credit Card
+- ![image](https://nightlies.apache.org/ofbiz/trunk/ofbiz/html5/images/order/credit-card.png)
+- #### Billing Account
+- ![image](https://nightlies.apache.org/ofbiz/trunk/ofbiz/html5/images/order/billing-account.png){:height 303, :width 612}
+-
+- For information about Billing Account look at [[Billing Accounts.]]
+-
+-
+-

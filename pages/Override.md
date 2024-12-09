@@ -1,0 +1,1 @@
+- Allows certain keywords to be ascendant at this store for a particular time period.

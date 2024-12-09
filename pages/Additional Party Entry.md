@@ -1,0 +1,3 @@
+- There may be reasons for associating another Party or Group with the order. For example, the person placing the order might be an member of an existing customer group, such as a shopping club, or they might be a purchasing agent for a company and need to be identified with that company.
+- When you select to identify another group or individual for association, a process will be followed.
+  Select a Party (use the lookup or auto-completion in field) and after the apply button you have to select which role for this party for this order. Only Existing role associated with the party selected appear.

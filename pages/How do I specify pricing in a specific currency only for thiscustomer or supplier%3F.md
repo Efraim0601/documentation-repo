@@ -1,0 +1,1 @@
+- This is done using the 'Agreement Items' sub menu

@@ -1,0 +1,11 @@
+- An Order Status is an easy visual indication to alert business about the orders requiring actions or not.
+  Order status is indicated on [[Order View]] screen on top of main part and just below there are history of change.
+- An Order can have the following status:
+- <ul><li>Created</li><li>Approved</li><li>Processing</li><li>Sent</li><li>Held</li><li>Rejected</li><li>Completed</li><li>Cancelled</li></ul>
+- Status change on actions on order (ex: payment is received) or on direct action button on [[Order View]] screen on main part in top menu bar.
+- [[Order Status diagram]]
+- [[Approved Order]]
+-
+-
+-
+-

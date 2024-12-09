@@ -1,0 +1,1 @@
+- Work efforts can only be added or deleted. They cannot be updated

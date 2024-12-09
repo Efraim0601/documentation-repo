@@ -1,0 +1,2 @@
+- Assets are items of value that are owned by the business.
+- The Asset Maintenance application is used to schedule and trace all maintenance activities on assets.

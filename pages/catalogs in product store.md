@@ -1,0 +1,1 @@
+- Catalogs which are available for the current store and the sequence in which they are to be shown to the user in a navigation menu.

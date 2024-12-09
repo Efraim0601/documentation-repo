@@ -1,0 +1,2 @@
+- Start process with screen [demo](https://155.248.233.8:8443/partymgr/control/main)
+- and have a look at  [[create order diagram]]

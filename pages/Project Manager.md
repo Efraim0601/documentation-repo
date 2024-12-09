@@ -1,0 +1,2 @@
+- Unresolved directive in plugins/projectmgr/src/docs/asciidoc/project-mgr.adoc - include::plugins/projectmgr/src/docs/asciidoc/_include/prjm_intro.adoc[leveloffset=+1]
+-

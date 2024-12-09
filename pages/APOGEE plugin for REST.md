@@ -1,0 +1,3 @@
+- This initial implementation helps to expose existing or new APOGEE services as REST. To facilitate this, added a new "action" attribute to service elements that helps to determine how a particular service can be accessed via REST.
+-
+-

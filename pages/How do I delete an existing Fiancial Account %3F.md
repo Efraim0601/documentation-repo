@@ -1,0 +1,3 @@
+- Press the 'Search' button on the Financial Account main screen
+- A list of all existing Financial Accounts will be displayed
+- Press the 'Delete' button next to the Financial Account that needs to be deleted.

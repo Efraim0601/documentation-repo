@@ -1,0 +1,4 @@
+- In this screen you have a summary of 3 screens for details look at
+- [[set shipping address and Group]]
+- [[Order Option settings]]
+- [[Payment setting]]

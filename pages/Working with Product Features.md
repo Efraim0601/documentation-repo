@@ -1,0 +1,2 @@
+- - Click on Features tab.
+- - Defaults to Product Features

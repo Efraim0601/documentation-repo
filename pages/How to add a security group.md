@@ -1,0 +1,4 @@
+- Click partyId into party’s screen already present.
+  Select the submenu 'Role(s)' to add the role to party
+- There is Add To Role screenlet, select role 'Image Approver'(on the combobox role type Id) then click 'add' button.
+- <ol><li>Go to 'Party' component.</li><li>Search 'UserLogin' or 'Party Id'.</li><li>Click 'UserLogin' or 'Party Id'.</li><li>Qt 'User Name(s)', click 'Security Groups' button.</li><li>At 'Add UserLogin go to Security Group', <ul><li>select group 'IMAGEADMIN Image Management Admin' for use all operations in the Image Management.</li><li>select 'IMAGEUPLOAD Image Management Upload': To add party’s permission for uploading,</li><li>select 'IMAGEAPPROVE Image Management Approve': To add party’s permission for approving.</li></ul></li></ol>

@@ -1,0 +1,4 @@
+- An “agreement” is a way of recording a business arrangement or contract that your business makes with other companies or individuals. Some common examples of agreements include Payment Terms (where you allow a customer up to 30 days to pay you) or Prompt Payment Discounts (where you offer a reduction on the amount owing if your customer pays you before a certain date)
+- At the time of writing, APOGEE allows you to create the following type of agreements
+- <ul><li>Product</li><li>Purchase</li><li>Sales</li><li>Employee</li><li>Commission</li><li>End User Licence</li></ul>
+- The most common agreements you will use will be Sales Agreements (for your Customers), Purchase Agreements (for your Suppliers) and Commission Agreements (for your Sales Representatives).

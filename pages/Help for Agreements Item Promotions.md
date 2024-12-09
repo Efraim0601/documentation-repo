@@ -1,0 +1,1 @@
+- This screen is used to enter or maintain any promotions that are associated with the Agreement Item. This can be useful if you want to limit where a particular promotion is applied. Promotions are setup in Catalog Manager and can be selected here.

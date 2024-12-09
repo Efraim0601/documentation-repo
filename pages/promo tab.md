@@ -1,0 +1,3 @@
+- At the top is general information about this promotion.
+- Each promotion has an ID, a name and a longer descriptive text, which are shown to customers.
+- If no text is entered, Apache OFBiz will automatically generate text for you.

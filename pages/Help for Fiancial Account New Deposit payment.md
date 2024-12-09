@@ -1,0 +1,1 @@
+- This screen allows the user to create an incoming payment to a financial account that has been linked to the company bank account.

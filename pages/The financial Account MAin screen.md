@@ -1,0 +1,3 @@
+- The default screen for Financial Accounts displays a list of any bank accounts that have been created. Details listed include the account the following
+-
+- <ul><li>account name</li><li>organisation the account is linked to</li><<li>account balances (available and actual)</li>/ul>

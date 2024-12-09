@@ -1,0 +1,4 @@
+- Upon opening the Order Manager, your first screen will be a short sale "dashboard of the day" with: * the new sales orders (enter today) * the top 5 of the product sales today
+- This screen is a portal page, so in some case it’s possible to choose which portlet to put.
+- On the first part, only order with status and type selected in the <Order List> screen appears. For example, if you work on purchase department, on Order List screen, if you select purchase type and only Approved status, on the main screen you will will see only purchase order created today and already in approved status.
+- Even if this screen is useful, it’s also a example a developer can personalize to give orders to follow in your business situation.

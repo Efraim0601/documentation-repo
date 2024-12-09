@@ -1,0 +1,3 @@
+- The 'Agreement' sub menu is used to enter the basic details required for setting up a new agreement or editing an existing one.
+- It can be used to create or update the following details for an Agreement:
+- <ul><li>The parties the agreement is between and their roles</li><li>The agreement type (eg Sales, Purchase, Commission, Employment etc)</li><li>Specific products</li><li>Start and End Date</li><li>Description</li></ul>

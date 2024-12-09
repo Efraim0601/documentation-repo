@@ -1,0 +1,2 @@
+- This screen is used to create or update the terms for an agreement item.
+  For more information about Agreement Term look at [Help for Edit Agreement Terms](https://nightlies.apache.org/ofbiz/trunk/ofbiz/html5/user-manual.html#_help_for_edit_agreement_terms)

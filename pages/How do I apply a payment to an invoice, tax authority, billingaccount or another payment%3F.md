@@ -1,0 +1,4 @@
+- <ol><li>Select the 'Applications' sub menu for the payment</li><li>Using the 'Apply this payment to' box at the bottom of the screen</li><li>Enter or use the lookup to enter the 'Invoice Id' to apply the payment to</li>(NOTE: This can be used if the invoice is to another party eg ordered by a subsidiary but paid for by another company of the same group)<li>Enter or use the lookup to enter the 'To Payment Id' to apply the payment to if required</li>(NOTE TO CHECK: How does this work…​…​?)<li>Enter or use the lookup to enter the 'Billing Account Id' to apply the payment to if required</li><li>Enter or use the drop down box to select the 'Tax Auth Geo Id' to apply the payment to if required</li>(NOTE TO CHECK: This is a country so need to test how this actually works…​…​)<li>Enter an amount in the 'Amount to Apply'</li>(NOTE: This must be less than or equal to the payment amount)<li>Press the 'Apply' button</li></ol>
+-
+-
+-

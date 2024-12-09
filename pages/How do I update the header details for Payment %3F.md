@@ -1,0 +1,2 @@
+- <ol><li>Select the 'Header' sub menu and the header details of the payment will be displayed</li><li>Update the fields required</li><li>Press the 'Update' button</li></ol>
+-

@@ -1,0 +1,11 @@
+- ![image](https://nightlies.apache.org/ofbiz/trunk/ofbiz/html5/images/order/create-sales-order_level2.png)
+-
+- 1. [Product Store and Customer Details](https://nightlies.apache.org/ofbiz/trunk/ofbiz/html5/user-manual.html#_order_entry_init)
+- 2. [Order Name and other Information](https://nightlies.apache.org/ofbiz/trunk/ofbiz/html5/user-manual.html#_order_currency_agreements_and_ship_dates)
+- 3. [Add Item(s) to cart](https://nightlies.apache.org/ofbiz/trunk/ofbiz/html5/user-manual.html#_add_items_to_cart)
+- 4. [Set Shipping Address](https://nightlies.apache.org/ofbiz/trunk/ofbiz/html5/user-manual.html#_set_shipping_address_and_group)
+- 5. [Select Shipping Method](https://nightlies.apache.org/ofbiz/trunk/ofbiz/html5/user-manual.html#_order_option_settings)
+- 6. [Payment Terms](https://nightlies.apache.org/ofbiz/trunk/ofbiz/html5/user-manual.html#_order_term)
+- 7. [Additional Party Entry](https://nightlies.apache.org/ofbiz/trunk/ofbiz/html5/user-manual.html#_additional_party_entry)
+- 8. [Create Order](https://nightlies.apache.org/ofbiz/trunk/ofbiz/html5/user-manual.html#_order_confirmation)
+-

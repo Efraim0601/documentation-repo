@@ -1,0 +1,3 @@
+- This screen is used to locate existing financial accounts that have been created.
+- It also includes the option to use the 'Advanced Search' button to display additional fields that can be used to locate a specific financial account.
+- New Financial Accounts can be created using the 'Create New Financial Account' button.

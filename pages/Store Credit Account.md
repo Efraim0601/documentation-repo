@@ -1,0 +1,1 @@
+- A "Store Credit Account" is a financial account that is used to to maintain the refund amount Specify the type (Billing Account or Financial Account) of Store Credit Account used for refund return. Default to Financial Account.

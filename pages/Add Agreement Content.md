@@ -1,0 +1,1 @@
+- To upload the content. The content can be classified by choosing the Content Type Id and Mime Type Id.

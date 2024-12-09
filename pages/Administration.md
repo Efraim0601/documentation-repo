@@ -1,0 +1,3 @@
+- Unresolved directive in plugins/scrum/src/docs/asciidoc/scrum.adoc - include::plugins/scrum/src/docs/asciidoc/_include/scrum-timeSheet.adoc[leveloffset=+2]
+- Unresolved directive in plugins/scrum/src/docs/asciidoc/scrum.adoc - include::plugins/scrum/src/docs/asciidoc/_include/scrum-default-tasks.adoc[leveloffset=+2]
+- Unresolved directive in plugins/scrum/src/docs/asciidoc/scrum.adoc - include::plugins/scrum/src/docs/asciidoc/_include/scrum-members.adoc[leveloffset=+2]

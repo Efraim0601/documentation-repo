@@ -1,0 +1,1 @@
+- This screen is used to create or update a product entry for an agreement item.

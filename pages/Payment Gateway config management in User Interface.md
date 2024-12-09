@@ -1,0 +1,4 @@
+- [[Help for Edit Payment Gateway Config]]
+	- [[How do I update a Payment Gateway Configuration?]]
+- [[Help for Find Payment Gateway Config Types]]
+- [[Help for Edit Payment Gateway Config Types]]

@@ -1,0 +1,2 @@
+- <ol><li>Select the gateway Find Payment Gateway Config screen</li><li>Enter the details required for the configuration type selected</li>(NOTE: This will be different for each individual configuration selected)<li>Press the 'Update' button</li></ol>
+-

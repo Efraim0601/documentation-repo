@@ -1,0 +1,1 @@
+- This very complete screen provides entry for all of the myriad choices available which define the store and establish parameters.

@@ -1,0 +1,2 @@
+- ![order status diagram](https://nightlies.apache.org/ofbiz/trunk/ofbiz/html5/images/order/manage-order-status.png)
+-

@@ -1,0 +1,4 @@
+- Once you click on the [New Order] link, you have begun the order taking [process through the Order Manager](create order diagrams). The internal, 'behind the scenes' processing of the order is very similar to the Ecommerce order. Unlike the Ecommerce ordering process, the customer will not see all of the screens you have available; only the person taking the order can see all the special offers and the details presented. This is why it is important when taking an order over the phone or completing a transcription from a hard copy or email order, that the processor be alert to special offers or to error messages that might appear.
+-
+-
+-

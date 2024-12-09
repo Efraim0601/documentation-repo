@@ -1,0 +1,4 @@
+- The Manual Electronic Transaction screen allows the user to manually input and process payment related transactions.
+- Options available include the following:
+- <ul><li>Authorisingpaymenttransactions</li><li>Refundingpayments</li><li>PaymentRe-Authorisation</li><li>PaymentCapture</li></ul>
+-

@@ -1,0 +1,4 @@
+- This screen shows all hours registered to the various tasks in the project by all participants.
+- From here the Project Manager processes all time entries for further processing regarding invoicing and cost accounting.
+- [[Project - edit info]]
+-

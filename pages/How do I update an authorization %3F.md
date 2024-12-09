@@ -1,0 +1,1 @@
+- An authorization cannot be updated. It can only be expired. If you have made a mistake and need to change an authorization then it needs to expired and then re-created correctly.

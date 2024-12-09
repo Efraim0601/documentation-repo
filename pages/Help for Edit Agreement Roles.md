@@ -1,0 +1,1 @@
+- This screen is used to assign a party roles for an agreement.

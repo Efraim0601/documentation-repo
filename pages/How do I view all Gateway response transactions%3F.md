@@ -1,0 +1,2 @@
+- <ol><li>Press the 'Lookup' button</li></ol>
+- A list of all transactions that have been authorised, captured or manually entered will be displayed.

@@ -1,0 +1,3 @@
+- The Project Manager can edit various details regarding the project.
+- [[Project - orders]]
+-

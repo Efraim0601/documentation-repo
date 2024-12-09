@@ -1,0 +1,3 @@
+- Rules for promotions are used to determine what actions should be taken in the promotion.
+- Each promotion can have multiple rules, and each rule can have multiple conditions and actions.
+- If a promotion had multiple rules, they would all be checked in sequence, and the rules whose conditions were true will be activated. This is especially helpful for complicated promotions that have multiple offers.

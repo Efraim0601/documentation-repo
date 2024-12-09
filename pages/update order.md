@@ -1,0 +1,4 @@
+- A [CSR](https://nightlies.apache.org/ofbiz/trunk/ofbiz/html5/user-manual.html#CSR) can edit or update in order to make changes in it based on customer requests or can add notes for handling.
+- [[Overviex update order process diagram]]
+- [[Detail update order process diagram]]
+-

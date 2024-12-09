@@ -1,0 +1,2 @@
+- The stores tab shows a list of product stores in which this promotion is active.
+- You can add additional stores here or delete them.

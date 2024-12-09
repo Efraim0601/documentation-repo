@@ -1,0 +1,4 @@
+- Whether the output is HTML, CSV, PDF, or something else, APOGEE provides a system for creating user interface that is independent of the actual implementation. This makes it possible to publish the same widget to HTML, PDF, CSV or some other output format.
+- However, the widget system allows users, if needed, to drop down to any platform-specific code and mix it with widget designs, thus providing a mix between ease of use, platform independence and customizability.
+-
+- [[Data Model Library]]

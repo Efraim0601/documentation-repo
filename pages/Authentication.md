@@ -1,0 +1,3 @@
+- The API is protected by JWT tokens, although other forms of access tokens may be supported in future. An API client must first authenticate itself using Basic Auth with a username and password. The username is nothing but APOGEE 'userLogin'. Token can also be generated using Swagger UI.
+-
+-

@@ -1,0 +1,2 @@
+- The lowest or most foundational part of APOGEE is a classical web MVC (Model View Controller) framework. This part of the system is designed for basic routing of web requests and may be considered as the infrastructure or plumbing where everything is wired together.
+- [[Entity Engine]]

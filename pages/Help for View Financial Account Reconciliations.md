@@ -1,0 +1,4 @@
+- This screen gives an overview of a reconciliation group / bank reconciliation.
+  Note that a reconciliation must have at least one transaction associated with it for this screen to be displayed. It is used as follows:
+- <ul><li>View transactions associated with a reconciliation group / bank reconciliation</li><li>Remove transactions from a reconciliation group / bank reconciliation</li><li>Reconcile the reconciliation group / bank reconciliation</li></ul>
+- The screen displays the current reconciliation details plus details of the previous reconciliation if one exists. This ensures the closing balance of the previous reconciliation is the same as the opening balance for the current one.

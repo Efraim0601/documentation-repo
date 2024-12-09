@@ -1,0 +1,3 @@
+- This sub menu allows the creation of a payment that is automatically applied to the billing account.
+- It is used when a payment has been received from a customer that is used to pay off the balance (or part balance) of a billing account.
+- An example of how this works is similar to a credit card statement where a list of transactions have been incurred over the previous month and one payment is used to settle the outstanding balance.

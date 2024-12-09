@@ -1,0 +1,6 @@
+- This screen allow not only to view an order but also to change it
+- Note the link to [PDF]. This will create a PDF formatted document which can be used internally for paper processing the order or sent to the customer as an attachment or hard copy to confirm the order. The customer should be told that the Order Number should be referenced in any correspondence regarding the order.
+- [[Order Information Sections]]
+- [[QuickShip Fulfillment Path]]
+- [[Wharehouse Fulfillment Path]]
+-

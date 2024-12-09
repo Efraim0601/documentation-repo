@@ -1,0 +1,8 @@
+- CSR creates a sales order for the customer from the backend as per the given information like personal details, contact information, billing and shipping information, and payment terms and methods. A customer can create a sales order from the storefront (ecommerce) as well.
+- Start process with screen [Order Entry from Order appl on Apache APOGEE demo site](https://demo-trunk.apogee.apache.org/ordermgr/control/orderentry?USERNAME=admin&PASSWORD=apogee)
+- [[Sales Order from Backend Level 1]]
+- [[Sales Order from Backend Level 2]]
+- [[Sales Order from Backend Level 3]]
+-
+-
+-

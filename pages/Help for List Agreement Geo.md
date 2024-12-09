@@ -1,0 +1,1 @@
+- This screen is used to display a list of the geographical locations that are valid for the agreement item.

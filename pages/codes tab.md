@@ -1,0 +1,1 @@
+- The codes tab is used to associate codes for a promotion, similar to coupon codes.

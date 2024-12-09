@@ -1,0 +1,4 @@
+- By default this screen will display all payment transactions both incoming and outgoing that have not already been associated with a financial account that represents one of the company’s bank accounts.
+- This screen also gives the option to create new deposit or withdrawal payments.
+- The user can select a number of incoming deposit payments (eg Customer Payments etc) and group them together into a payment group (i.e AR Batch of Payments) that will create a 'deposit slip'.
+- If you select a number of incoming payments and dont group them then no payment group is created (and therefore not deposit slip either) but the individual transactions will be created for the 'bank account' financial account.

@@ -1,0 +1,2 @@
+- A “Commission Agreement” is an agreement that is used to calculate how much money a Sales Representative will get when products they have promoted or marketed are sold to customers. The rate paid to the Sales Representative is can be based on a fixed or variable on a percentage of each sale they make. These amounts can be quite small amounts so it can be easier to consolidate multiple commission payments into one large payment that is paid monthly.
+- If you have installed APOGEE with the demo data then there are already two example Commission Agreements created for you.

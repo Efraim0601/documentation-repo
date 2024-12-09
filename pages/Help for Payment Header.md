@@ -1,0 +1,4 @@
+- The Header screen displays the header details for the payment transaction and allows all fields to be updated if required.
+- The following options are currently available from this screen:
+- <ul><li>Create New (Create a new payment)</li><li>Status to 'Received' (Change the status of the current payment to 'Received. </li>NOTE: This will create the relevant accounting transactions and post them to the general ledger<li>Status to 'Cancelled' (Change the status of the current payment to 'Cancelled')</li><li>Status to 'Confirmed' (Change the status of the current invoice to 'Confirmed. </li>NOTE: This status option will not appear until the status has been changed to 'Received')
+  </ul>

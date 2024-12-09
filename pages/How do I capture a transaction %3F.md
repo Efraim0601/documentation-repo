@@ -1,0 +1,3 @@
+- <ol><li>Enter the Order Id for the payment (eg Sales Order Id)</li><li>Enter Order Payment Preference Id</li>(TO CHECK Unsure of what this is…​a type of unique identifier perhaps?)<li>Select the 'Payment Method Type'</li><li>Select the 'Payment Type'</li><li>Enter the 'Amount'</li><li>Press the 'Capture' button</li></ol>
+-
+- A transaction will be created and can be viewed via the 'Gateway Responses' screen.

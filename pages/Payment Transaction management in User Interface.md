@@ -1,0 +1,11 @@
+- [[Help for Find Gateway Responses]]
+	- [[How do I view all Gateway response transactions?]]
+	- [[Transaction results (external link)]]
+- [[Help for The Authorize Transaction]]
+	- [[How do I create and authorise a transaction?]]
+- [[Help for Capture Transaction]]
+	- [[How do I capture a transaction ?]]
+- [[Help for View Gateway Response]]
+- [[Help for Manual Transaction]]
+	- [[How do I create a manual electronic transaction ?]]
+	-

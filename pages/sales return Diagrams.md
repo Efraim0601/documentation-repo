@@ -1,0 +1,12 @@
+### Create Sales Return
+- A customer requests for the return of the product. The reason for returning the merchandise can be defective goods, incorrect product specification, excess quantity shipped or wrong items shipped. The [[CSR]] accepts the return request and fills out the return details and creates a return with respect to the sales order.
+- ![create sales return](https://nightlies.apache.org/ofbiz/trunk/ofbiz/html5/images/order/order-return-create_level3.png)
+-
+- ### Update Sales Return
+- A user can request the CSR to update the return. The reason can be to add/remove items in previously created sales return or editing the returnable quantity. A CSR opts to put notes on the return related to communication or conclusion drawn on that return.
+- #### Overview
+- ![Warehouse Manager](https://nightlies.apache.org/ofbiz/trunk/ofbiz/html5/images/order/order-return-update_level2.png)
+-
+- #### Details
+- ![Manage Return Status](https://nightlies.apache.org/ofbiz/trunk/ofbiz/html5/images/order/order-return-update_level3.png)
+-

@@ -1,0 +1,3 @@
+- This screen shows details of an individual gateway transaction.
+- It displays specific information regarding the order and the payment.
+- The lower part of the screen shows the gateway response details indicating the time and codes used to process the transaction through the gateway.

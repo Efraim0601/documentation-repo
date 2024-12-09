@@ -1,0 +1,2 @@
+- A "Bank Account" is a financial account between a bank and their customer. By default this type of financial account will post to 213500 CUSTOMER DEPOSIT ACCOUNTS.
+- If you have installed APOGEE with the demo data then there are already examples of Bank Accounts created for you.

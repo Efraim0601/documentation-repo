@@ -1,0 +1,1 @@
+- <ol><li>Press the 'Search' button to view all payments</li></ol>

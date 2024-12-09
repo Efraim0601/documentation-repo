@@ -1,0 +1,3 @@
+- Congratulations! You have completed all the aspects of entering an order into the system. Be sure the customer receives the Order Confirmation number. You might wish to mail or fax a copy of this screen to the customer for their reference.
+- Work has just begun behind the scenes for processing the order, however.
+- The next step will be giving Acceptance and/or Approval for the order which will trigger the processes needed to get the product out the door.
