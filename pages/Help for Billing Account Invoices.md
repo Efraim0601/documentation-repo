@@ -1,0 +1,9 @@
+- The Billing Account Find Invoices screen displays by default a list of invoices that have been charged to the billing account.
+- Any invoice displayed here means that its invoice amount has been deducted from the billing account credit limit. For example: If the Billing Account Credit Limit is $100 and the there are 2 invoices displayed with amounts $10 and $25 then the available credit for the billing account will be $75.
+- The invoice can be at various statues and there is an option to locate an invoice by status.
+- It is also used to apply any payments that have been made into the Billing Account to an invoice. A 'Capture' button is displayed next to each invoice displayed that has an amount outstanding.
+-
+- Example:
+- <ul><li>Two invoices are charged to a Billing Account (Invoice A $10 and Invoice B $25)</li><li>A payment of $17 has been paid into the Billing Account</li><li>If the Capture button is pressed for the invoice A then $10 of the $17 payment will be applied to this invoice and a new payment transaction of $7 will be created and available to apply to a different invoice</li></ul>
+-
+-

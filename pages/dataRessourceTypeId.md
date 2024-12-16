@@ -1,0 +1,3 @@
+- The dataResourceTypeId field indicates the storage mechanism for the resource.
+  It could be of type ELECTRONIC_TEXT, which indicates that there is an entry in the ElectronicText table that is related to the DataResource by its primary key.
+- If the mimeTypeId is of type image, then the dataResourceId could be IMAGE_OBJECT (stored in the database ImageDataResource table), APOGEE_FILE (stored in a file the path of which is relative to the APOGEE home directory) or URL_RESOURCE (could be accessed via HTTP protocol).

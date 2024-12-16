@@ -1,0 +1,5 @@
+- The First Customer screen provides
+- create/edit the first customer of your organization
+- and also setup the "Shipping Destination Address" , "General Correspondence Address", any telephone numbers, and email addresses you want for your first customer.
+- [[How do I update the profile information of the first customer ?]]
+-

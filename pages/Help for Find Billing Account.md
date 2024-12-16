@@ -1,0 +1,2 @@
+- The default screen is for the Billing Account tab is 'Find Billing Account'. It is used to locate existing billing accounts that have been created.
+- The user has the option to select an existing billing account or create a new one by clicking on the 'New' button.

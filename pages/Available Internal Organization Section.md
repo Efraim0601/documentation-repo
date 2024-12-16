@@ -1,0 +1,2 @@
+- This section shows list of organizations which store in the system. You be able to edit an information of your orgainzation via click setup then it will go to view profile screen, you will see other tab button including Facility, Product Store, Web Site, First Customer, and First Product where you would like to edit an information.
+- When you created an information of your orgainzation and also created product. And the last step is click "Set to complete" button.

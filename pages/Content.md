@@ -1,0 +1,4 @@
+- The Content entity determines how DataResources are rendered.
+- It does this on a 'local' level, in that it has a mimeTypeId, localeString and other fields that indicate to the rendering system how the DataResource should look, but it can also control the larger picture because it can act as a placeholder and head for other content.
+- The Content.dataResourceId does not need to point to anything, instead a Content entity can be related to other Content via ContentAssoc entities.
+- At some point, some of the child Content entities must point to DataResources, else nothing will ever be displayed.

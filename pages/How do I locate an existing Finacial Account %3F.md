@@ -1,0 +1,2 @@
+- Press the 'Search' button
+- A list of all existing Financial Accounts will be displayed.

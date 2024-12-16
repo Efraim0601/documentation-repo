@@ -1,0 +1,2 @@
+- A “Sales Agreement” is an agreement between you and your customers. A customer can also be another business. You can create a range of conditions for your customer including giving them such as payment discounts or special payment terms and credit limits.
+- If you have installed APOGEE with the demo data then there are already examples of Sales Agreements created for you.

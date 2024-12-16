@@ -1,0 +1,6 @@
+- This sub menu allows parties with specific roles to be associated with to a Billing Account.
+- It is used to specify which party should be billed for the billing account.
+- It can be used as follows:
+- <ul><li>Simple billing account for a single party</li><li>More complex billing account where multiple parties (eg company subsidiaries) charge invoices to the billing account but a different party (eg head office) will pay the account</li></ul>
+-
+-

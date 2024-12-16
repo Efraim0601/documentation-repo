@@ -1,0 +1,2 @@
+- This screen lists some of the most common payment gateway configuration types that have been created as part of the seed or demo data.
+- Press the 'Lookup' button to see a list of existing payment gateway configuration types.

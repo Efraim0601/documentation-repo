@@ -1,0 +1,4 @@
+- This screen provides an overview of all participants in the project.
+- From here the Project Manager can add new resources to the project, or end the participation of existing project members.
+- Next [[Project-tasks]]
+-

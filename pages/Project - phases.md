@@ -1,0 +1,4 @@
+- This screen provides an overview of the phases of the project.
+- The Project Manager can manage all phases in the project here, e.g. defining new phases.
+- [[Project-ressources]]
+-

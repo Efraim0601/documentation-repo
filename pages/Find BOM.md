@@ -1,0 +1,3 @@
+- This screen displays an overview of the BoM’s available, i.e. a list of product with components.
+- When one is selected in the list, the detail of its components are shown.
+- You can also click the button 'Create BOM' to create a new BoM.

@@ -1,0 +1,1 @@
+- The Document Content Management System (DMS/CMS) is designed to store data once and then allow it to be reused in multiple arrangements.

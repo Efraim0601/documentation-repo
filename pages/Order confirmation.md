@@ -1,0 +1,2 @@
+- If there are any discrepancies in the order, this the time to fix them. Click on the appropriate link on Order Confirmation Top Bar to be returned to the applicable screen.
+- When review is finished and everything meets with the customer’s approval then click on [Create Order].

@@ -1,0 +1,3 @@
+- The ContentRole entity is used to assign permission authority to a piece of content.
+- The ContentRole entity identifies the Content to which the authority is being attached and the Party that has that authority and what sort of authority (role) that party has.
+- The ContentRole also establishes the time frame (from/thruDate) for which that authority is valid.

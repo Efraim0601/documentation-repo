@@ -1,0 +1,3 @@
+- The default screen shows a list of Party Groups that have the role of 'Internal Organization' associated with them.
+- If you have installed the demo data then the default company 'Company' as well as departments / business units and regional subsidiaries will be displayed.
+- For each 'Internal Organization' there is the ability to set the currency, fiscal periods and invoice prefixes.

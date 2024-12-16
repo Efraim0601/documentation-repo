@@ -1,0 +1,1 @@
+- Party roles can only be added and deleted. They cannot be updated.

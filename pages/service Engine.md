@@ -1,0 +1,4 @@
+- APOGEE is designed specifically around a Service Oriented Architecture (SOA). Services are units of business logic that take a set of input values and produces a set of output values.
+- Services are programming-language-independent. It does not matter whether a service is implemented using Java, Groovy, Jython, or something else because services are an abstraction away from the underlying technology. This provides maximum flexibility for designing business logic without worrying about interoperability between different languages.
+-
+- [[Widget System]]

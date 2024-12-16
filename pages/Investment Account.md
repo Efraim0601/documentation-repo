@@ -1,0 +1,1 @@
+- An "Investment Account" is a financial account that contains deposits of funds and/or securities that are held at a at a bank, stock exchange or other financial Institution. By default this type of financial account will post to 213500 CUSTOMER DEPOSIT ACCOUNTS.

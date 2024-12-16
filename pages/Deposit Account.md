@@ -1,0 +1,1 @@
+- A "Deposit Account" is a financial account which allows money to be deposited and withdrawn by the account holder. By default this type of financial account will post to 213500 CUSTOMER DEPOSIT ACCOUNTS.

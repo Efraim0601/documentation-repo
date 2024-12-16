@@ -1,0 +1,3 @@
+- The entity engine allows APOGEE users to define entities, data, and queries in a database-independent domain specific language (DSL) based on XML. Thus, without learning any SQL users can create and interact with databases in a platform-independent manner and Apache APOGEE would make the translations under the hood to each database system.
+-
+- [[service Engine]]

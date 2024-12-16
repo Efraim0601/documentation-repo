@@ -1,0 +1,2 @@
+- This screen shows details of an individual profile.
+- It displays specific information regarding the contact and profile information. The lower part of the screen shows the contact information details indicating the address, telephone number, or email used to communicate with your organization.

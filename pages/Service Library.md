@@ -1,0 +1,5 @@
+- Having a rich and powerful data model is not very useful on its own without services that apply business logic on this data model. That is where the services defined in APOGEE come into play.
+- OFBiz provides, out-of-the-box, thousands of services to create, retrieve, update, delete, search, and do many other operations on the data model.
+-
+- terminer la documentation
+-

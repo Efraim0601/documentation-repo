@@ -1,0 +1,11 @@
+### Create Sales Return
+- A customer requests for the return of the product. The reason for returning the merchandise can be defective goods, incorrect product specification, excess quantity shipped or wrong items shipped. The [[CSR]] accepts the return request and fills out the return details and creates a return with respect to the sales order.
+- ![order-return-create_level3](../assets/order-return-create_level3.png)
+-
+- ### Update Sales Return
+- A user can request the CSR to update the return. The reason can be to add/remove items in previously created sales return or editing the returnable quantity. A CSR opts to put notes on the return related to communication or conclusion drawn on that return.
+- #### Overview
+- ![order-return-update_level2.png](../assets/order-return-update_level2.png)
+-
+- #### Details
+- ![order-return-update_level3.png](../assets/order-return-update_level3.png){:height 702, :width 612}

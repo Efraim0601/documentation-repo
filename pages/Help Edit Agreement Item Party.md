@@ -1,0 +1,1 @@
+- This screen is used to add or update a party linked to an agreement item. This could be useful for storing specific contact names associated with an agreement item.

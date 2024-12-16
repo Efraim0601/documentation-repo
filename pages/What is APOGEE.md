@@ -1,0 +1,4 @@
+- It is hard to define APOGEE because it offers many different solutions targeted at different levels of interests (users, developers, business owners). At a low level it may considered a web framework, at another level, it may considered a full fledged ERP system, and yet it can also be considered a business automation suite.
+-
+- Next > [[The main parts of APOGEE]]
+- [[DOCUMENTATION]]

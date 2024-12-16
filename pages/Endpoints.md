@@ -1,0 +1,5 @@
+- Once deployed, the following URLs can be accessed:
+- `GET /rest/services`
+- `GET /rest/services/{serviceName}?inParams=<URLEncodedJSON>`
+- `POST /rest/services/{serviceName}` (For this endpoint, the service in parameters must be part of the Request Body)
+-

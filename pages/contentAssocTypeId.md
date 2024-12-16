@@ -1,0 +1,3 @@
+- The contentAssocTypeId field is used to add information about the type of a Content-to-Content relationship. It is part of the primary key.
+- Two Content entities can be related by multiple ContentAssoc entities if the contentAssocTypeId field varies (or the fromDate is different).
+-

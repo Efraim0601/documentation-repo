@@ -1,0 +1,1 @@
+- This field is the 'from' or 'child' field in a Content-to-Content relationship.

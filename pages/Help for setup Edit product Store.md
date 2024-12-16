@@ -1,0 +1,4 @@
+- The Product Store screen is used to manage a store with has all the information needed to sell products.
+- For example shippings ,a series of catalogs, which are composed of product categories and products, and also used to configure the payment processing settings , fulfillment, notification, promotions, payment processing, and tax calculation policies , and etc.
+- [[How do I create a Product Store?]]
+- [[How do I update a Product Store ?]]

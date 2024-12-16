@@ -1,0 +1,7 @@
+- A tax authority is legal body usually the state (country) that imposes a financial levy on business transactions.
+- In APOGEE tax authorities are used to calculate where business or related taxes are due.
+- Tax setup is very important as it links into the calculated price that you can charge your customers and also flows through into any related legal documents that are generated (eg Sales Order, Sales Invoice, Purchase Order etc).
+- Each country or region will have specific rules regarding what should or should not be taxed. There will also be very strict regulations on how taxable transactions should be recorded and tracked in the general ledger or chart of accounts.
+- Tax authority setup allows configuration of the following :
+- <ul><li>Income tax</li><li>Value Added Tax (VAT) / Goods and Services Tax (GST)</li><li>Import / Export tax / Custom and Excise Duty</li><li>State, City or County taxes</li></ul>
+-

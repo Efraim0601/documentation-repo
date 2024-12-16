@@ -1,0 +1,1 @@
+- In the left-hand panel is a section labeled 'Browse Categories.' You can click on one of the -indented- categories to begin editing it directly, or click on the [Choose Top Category] link to view a list of links to all Parent categories.

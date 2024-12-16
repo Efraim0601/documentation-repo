@@ -1,0 +1,1 @@
+- description is used in cases where a short summary or description of the Content is desired. The description field value must be less than 255 characters.

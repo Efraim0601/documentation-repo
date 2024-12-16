@@ -1,0 +1,1 @@
+- Parties for an agreement item cannot be updated. They can only be added or removed.

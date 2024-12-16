@@ -1,0 +1,6 @@
+- Before anything can start a product backlog is required which will need a product to be created first. So create a product assign the it to a product owner which was created in the Scrum member section. Then go to the backlog and create the backlog items.
+- Unresolved directive in plugins/scrum/src/docs/asciidoc/scrum.adoc - include::plugins/scrum/src/docs/asciidoc/_include/scrum-product.adoc[leveloffset=+2]
+- Unresolved directive in plugins/scrum/src/docs/asciidoc/scrum.adoc - include::plugins/scrum/src/docs/asciidoc/_include/scrum-product-backlog-item.adoc[leveloffset=+2]
+- Unresolved directive in plugins/scrum/src/docs/asciidoc/scrum.adoc - include::plugins/scrum/src/docs/asciidoc/_include/scrum-product-categories.adoc[leveloffset=+2]
+- Unresolved directive in plugins/scrum/src/docs/asciidoc/scrum.adoc - include::plugins/scrum/src/docs/asciidoc/_include/scrum-project-sprint.adoc[]
+- Unresolved directive in plugins/scrum/src/docs/asciidoc/scrum.adoc - include::plugins/scrum/src/docs/asciidoc/_include/scrum-my-work.adoc[leveloffset=+1]

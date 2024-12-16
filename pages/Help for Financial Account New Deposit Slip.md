@@ -1,0 +1,1 @@
+- This screen allows the user to create an Payment Group and the transactions associated with the Payment Group will generate a deposit slip.

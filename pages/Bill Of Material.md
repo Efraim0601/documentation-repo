@@ -1,0 +1,3 @@
+- The Bill of Materials is the list of raw materials or list of ingredients required to make our manufactured product.
+- When a product is created and it will be manufactured, we need to define the relationship between the product and its raw materials. This is done using the BOM.
+- For configurable product, or product with feature, it’s possible to define some "Manufacturing Rules" to have a BOM which that adjust according to the options / feature chosen.

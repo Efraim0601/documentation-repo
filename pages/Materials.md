@@ -1,0 +1,1 @@
+- This section displays an overview of the required materials that will be used during the Production Run. This information is taken from the Bill of Materials.

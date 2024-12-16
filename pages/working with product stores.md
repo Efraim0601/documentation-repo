@@ -1,0 +1,14 @@
+- When you click on 'Stores,' you will see a list of product stores that have been defined.
+  Click on one and you will see several tabs for administering different aspects of that store. Some of those aspects are discussed below.
+- [[Product Store]]
+- [[Roles]]
+- [[Promos]]
+- [[ catalogs in product store ]]
+- [[Web Sites]]
+- [[Shipping]]
+- [[Payments in product store]]
+- [[Emails]]
+- [[Surveys]]
+- [[Override]]
+- [[segments]]
+-

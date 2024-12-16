@@ -1,0 +1,3 @@
+- Perhaps to better understand what APOGEE is, it may be necessary to understand its main parts and the purpose that each part plays. Thus the main parts or sub-systems are summarized below.
+- let start with [[Web MVC Framework]]
+-

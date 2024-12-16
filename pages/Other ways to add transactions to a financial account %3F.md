@@ -1,0 +1,2 @@
+- <ul><li>By selecting financial account as a payment method for a customer</li><li>By selecting financial account as a refund method for a customer</li></ul>
+-

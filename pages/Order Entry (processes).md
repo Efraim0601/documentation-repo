@@ -1,0 +1,6 @@
+- Order entry can come from 2 path, Order management (back office) and eCommerce.
+- The company’s order entry process is discussed below under the Order Manager Path. You may jump there directly if you wish. Both the ecommerce entry and the Order Manager entry methods are discussed in this section to the point where the order entry is finished and Order Approval is needed before proceeding. It is valuable for you to be familiar with the ecommerce order entry process so that when a customer writes or calls in with a problem from that process you can be understanding and helpful.
+- Remember that an order can be canceled anytime up to the final confirmation point! Encourage your staff, especially your customer service people, to walk through an on-line order. They should try to see what happens when clicking on links or following paths that they wouldn’t ordinarily follow, just to see what happens! Then, when a customer describes their situation, you can relate to what they are seeing on their screen.
+- [[Order Manager path]]
+- [[ECommerce Entry path]]
+-

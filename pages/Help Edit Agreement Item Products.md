@@ -1,0 +1,1 @@
+- This screen is used to link a specific product or products to an agreement. This can be useful for restricting a discount or product pricing to a particular product (or range of products) for a specific customer.

@@ -1,0 +1,5 @@
+- The default screen is 'Find Payment' which allows the user to search for and view the details related to a payment transaction. Specific search criteria can be entered as a filter to locate the payment quickly.
+- Payments can be incoming or outgoing and the demo data contains a list of payment type descriptions that describe the reason for the payment in more detail (eg Customer Deposit, Tax Payment, Commission Payment etc).
+- This screen is used to locate existing payments that have been created automatically by the system or manually by the user. There are links from this page that can be used to do the following:
+- <ul><li>Create a new incoming or outgoing payment</li><li>Find Sales Invoices by due date</li><li>Find Purchase Invoices by due date</li></ul>
+-

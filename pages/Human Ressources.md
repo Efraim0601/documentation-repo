@@ -1,0 +1,5 @@
+- The APOGEE Human Resources system is one of the  and has all the functionality you need to manage your business employees process : organisational hierarchies, recruitment, training, evaluation, …​It is well integrated with other components especially Accounting to manage Payroll and any specific employee agreements.
+- In APOGEE [[Party]] is one of the core object, a party is a person (employee, end customer, sub-contractor, contact, …​) or an organization (group, department, company, …​).
+  One of the strengths of APOGEE is the rich set of features it has build up to manage information and relationships for parties. This makes APOGEE a great platform for HR services because managing people and organizations is a core APOGEE technology.
+- Important terms in the documentation are defined in a Glossary. In order to promote a consistent usage and understanding of terms, links to the Glossary definitions are placed throughout the document.
+-

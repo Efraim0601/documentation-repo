@@ -1,0 +1,2 @@
+- This page acts as an placeholder of the overview of the marketing activity in the company.
+- It can be customized to describe internal process.

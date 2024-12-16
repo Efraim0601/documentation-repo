@@ -1,0 +1,1 @@
+- This screen provides an overview of all timesheets (see [[My Timesheets]] as example )registered with the application by all project participants.

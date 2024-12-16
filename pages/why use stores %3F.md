@@ -1,0 +1,5 @@
+- The 'Stores' tab in the catalog manager as used to define all the properties of a working store, is a group of products sold together under the same policies.
+- Stores greatly improve the flexibility of Apache APOGEE applications.
+- It is possible for a company to set up multiple stores, each with its warehouses, fulfillment policies, currencies, languages, promotions, and look-and-feel.
+- These stores can be web-based b2b or consumer ecommerce stores or for internal order entry.
+- They could even be in different countries with different shipping and taxation rules.

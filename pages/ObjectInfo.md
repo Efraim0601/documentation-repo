@@ -1,0 +1,6 @@
+- If dataResourceTypeId is ELECTRONIC_TEXT or IMAGE_OBJECT, then objectInfo is not used, but for other types, it will contain the resource storage information.
+- If dataResourceTypeId is one of OFBIZ_FILE, CONTEXT_FILE, LOCAL_FILE or URL_RESOURCE; then objectInfo contains path info.
+- If dataResourceTypeId equals SHORT_TEXT, then objectInfo will contain the actual resource (short text) value.
+- [[ElectronicText]]
+- [[ImageDataResource]]
+-

@@ -1,0 +1,3 @@
+- The main page on APOGEE Setup application including 2 sections, following this:
+- [[Available Internal Organization Section]]
+- [[Create New Organization Section]]

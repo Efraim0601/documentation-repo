@@ -1,0 +1,4 @@
+- The WebSite screen is used to manage the details of a WebSite.
+- The WebSite record is used to configure which Product Store to use for your site that references it.
+- [[How do I create a Web Site ?]]
+- [[How do I update a Web Site?]]

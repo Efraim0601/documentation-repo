@@ -1,0 +1,2 @@
+- The APOGEE Manufacturing component is one of the core application components and has all of the functionality you need to manage the cycle of tasks involved in the making of products and ensuring that the material necessary for production is forecast to be available at the right time
+- It is well integrated with other components especially Catalog to manage product definition, whatever its stage of manufacture (raw material, supply, subassembly, service, …​) and Workeffort to manage all means of production.

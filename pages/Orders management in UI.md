@@ -1,0 +1,1 @@
+- Sales and Purchase management are done on the same screen, so depending on what you want, don’t forget to select the correct Order Type.

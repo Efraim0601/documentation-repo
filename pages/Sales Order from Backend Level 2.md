@@ -1,0 +1,12 @@
+- ![Sales Order from Backen Level 2](../assets/sale order 2.png)
+-
+-
+- 1. Product Store and Customer Details
+- 2. Order Name and other Information
+- 3. Add Item(s) to cart
+- 4. Set Shipping Address
+- 5. Select Shipping Method
+- 6. Payment Terms
+- 7. Additional Party Entry
+- 8. Create Order
+-

@@ -1,0 +1,3 @@
+- The Catalog Manager creates or provides access to a variety of information. Whether Products, Catalogs, or Categories, this screen offers search tools and links to get you to the type of information you need or are working with quickly and accurately.
+- The Catalog Manager application is used to manage the products, all what is purchase, sale, build, used, …​ by the company. A product can be physical or digital.
+- With catalog application, you can manage all data associated with Product : category, catalog, price, id, …​.

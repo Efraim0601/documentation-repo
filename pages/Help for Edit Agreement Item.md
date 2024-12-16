@@ -1,0 +1,3 @@
+- This screen allows specific items to be added to agreement. Currently these are limited to the following:
+- <ul><li>Pricing</li><li>Commission Rate</li><li>Sub-Agreement</li><li>Exhibit</li><li>Section</li></ul>
+-

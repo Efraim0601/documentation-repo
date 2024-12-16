@@ -1,0 +1,1 @@
+- Shows a list of active promotions for this store.

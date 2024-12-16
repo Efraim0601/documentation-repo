@@ -1,0 +1,1 @@
+- The ContentPurpose entity adds extra information to a Content entity that is used to determine what permissions are required to access that Content.

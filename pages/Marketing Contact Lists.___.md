@@ -1,0 +1,2 @@
+- A contactlist is currently an email mailing list to inform a certain number of parties via email.
+  The system however already has a provision to use this facility for calling list or to create mail and merge list for paper documents.

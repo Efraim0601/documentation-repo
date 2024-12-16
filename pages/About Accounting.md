@@ -1,0 +1,6 @@
+- The Accounting system is organised according to generally accepted principles such as double-entry accounting, a General Ledger with hierarchical accounts, journals and posting of transactions and corresponding entries.
+- The structure is primary based on the OMG GL standard and the work that was done on an AR/AP extension of the OMG GL standard. This correlates well with other standards such as ebXML and OAGIS.
+- The Accounting entities are structured such that accounts for multiple organisations can be managed. The multiple organisations could be multiple companies, or departments or other organisations within a company. Each organisation can have various GL Accounts associated with it so that it can operate with its own subset of the Master Chart of Accounts.
+- Each organisation can also have its own set of Journals for flexibility, even though the use of Journals should be as minimal as possible in favour of allowing the system to automatically create and post transactions based on business events triggered by standard procedures and documents such as purchase and sales orders, invoices, inventory transfers, payments, receipts, and so on.
+-
+- Next [[Accounting features]]

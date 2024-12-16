@@ -1,0 +1,1 @@
+- This screen is used to enter or maintain terms that are specific to an agreement item. The terms available are the same as those found under the 'Agreement Terms' tab and any related terms will be displayed both here and under the 'Agreement Items' tab .

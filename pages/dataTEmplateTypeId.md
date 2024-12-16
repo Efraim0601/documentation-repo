@@ -1,0 +1,3 @@
+- One of the powerful concepts of the APOGEE CMS is that it can store templates that can be used to control the formatting of data.
+- In this case, the resource pointed to by the DataResource entity will not be rendered, itself; instead, it will be used as a template to format data that is associated with it.
+- The currently supported templating types are FreeMarker (FTL) and the APOGEE Screen Widget (SCREEN_COMBINED) format. If the value of dataTemplateTypeId is empty or equal to NONE, then the data pointed to by the dataResource entity is rendered directly.

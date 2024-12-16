@@ -1,0 +1,2 @@
+- To be able to do planification, it’s necessary to know when each resources (machine) are available.
+- Calendar help you to define each period with availability.

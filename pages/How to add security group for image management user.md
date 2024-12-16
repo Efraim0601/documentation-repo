@@ -1,0 +1,3 @@
+- There are three security groups related in the Image Management including 'IMAGEADMIN', 'IMAGEAPPROVE' and ' IMAGEUPLOAD'.
+- [[How to add a security group]]
+- [[How to Add Role For Approve Image To Party Id]]

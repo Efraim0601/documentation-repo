@@ -1,0 +1,2 @@
+- A sales order is an agreement between a business association and a customer concerning the delivery of products or provision of services. This process involves order capturing, order status management, payment terms and method setup etc.
+- A customer can place an order from the storefront or a customer service representative (CSR) can place the order on behalf of a customer from the back end.

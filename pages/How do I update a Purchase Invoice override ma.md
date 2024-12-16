@@ -1,0 +1,1 @@
+- An existing Purchase Invoice override mapping cannot be updated but needs to be removed and a new mapping added. If you try to add an override to an item that already has an override you will get a duplicate record error message.

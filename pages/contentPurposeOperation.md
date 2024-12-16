@@ -1,0 +1,1 @@
+- ContentPurposeOperation is used to setup permission validation rules.

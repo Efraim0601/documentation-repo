@@ -1,0 +1,1 @@
+- A "Gift Certificate" is something that entitles the recipient to select merchandise up to a specified value from a store. It is usually presented as a gift. By default this type of financial account will post to 213200 GIFT CERTIFICATES UNREDEEMED.

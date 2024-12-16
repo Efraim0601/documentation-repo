@@ -1,0 +1,6 @@
+- The Sales Order process is not complete until the Shipment is generated. This is begun by clicking on the link [New Shipment for Ship Group #].
+- The following screen in the Facility Manager is sometimes brought up with the Order Number and little else completed in it.
+- When you generate the Shipment by clicking on 'New Shipment For Ship Group [00001]' link, your screen might not appear as completed as shown above. Before you enter information in the address fields, for example, try clicking on the [Submit] or [Update] link at the bottom of the screen. The system usually will retrieve these addresses from the Sales Order and from the Party Profile to enter the address ID numbers as you see here.
+- The Status ID wil generally be updated as you go through the following steps. That Status includes Scheduled, Picked, Packed, etc.
+- If the Order had a desired delivery date, or if you have a good idea what the shipping dates could or should be, here and now is a good time to complete them. Those dates would be the Ready date, the Ship date and the Receive date. The Latest Cancel Date is the last possible moment the order can be canceled before it is committed to the shipping company.
+- Destination Facility would seldom be used for retail customers. This would be for wholesale customers or established high-volume Business to Business clients.

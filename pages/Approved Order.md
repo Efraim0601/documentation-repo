@@ -1,0 +1,2 @@
+- f you have an approval process, you will want to check over the details to confirm that the shipping information is complete and accurate, that the billing details are acceptable and that the requested shipping dates (if specified) are within your company’s capabilities.
+- When all is ok click on the [Approve Order] link in [[order view]]

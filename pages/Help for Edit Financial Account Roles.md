@@ -1,0 +1,3 @@
+- The Financial Account Roles sub menu screen allows you specify a party and link them to a role for a particular financial account.
+- It can be used to add party roles eg 'Approver' or 'Administrator' for credit limits or updates to the account. If an account belongs to a company then you may want to add a person as a 'Contact' for dealing with the account.
+- The roles can also be time bound. This means that you can specify a start and end date for the party role.

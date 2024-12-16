@@ -1,0 +1,4 @@
+- The mime type is the standard Multipurpose Internet Mail Extension, of which, 'text/html' and 'image/gif' will be two of the more common examples.
+- The mimeTypeId indicates the format of the content as it is stored.
+- This must be compared to the desired output format to see if the rendering system can handle the request.
+- For example, if the DataResource.mimeTypeId equals, 'image/png', and the target output format is 'text/html', the rendering system could make the logical supposition that it should return an HTML "img…​/" tag. If the output format were 'application/pdf' then it will need to determine if it can convert the image to a PDF format.

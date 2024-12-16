@@ -1,0 +1,2 @@
+- A “Purchase Agreement” is an agreement between your business and a supplier. You may have negotiated special conditions such as delivery, volume pricing and invoice terms.
+- If you have installed OFBiz with the demo data then there are already examples of Purchase Agreements created for you.

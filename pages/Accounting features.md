@@ -1,0 +1,7 @@
+- <ul><li>General Ledger</li><li>Accounts Receivable</li><li>Accounts Payable</li<li>Agreements</li<li>Multi-currency Support</li><li>Billing Accounts</li><li>Fixed Asset Accounting</li></ul>
+- APOGEE accounting can be configured to handle multiple organisations including an unlimited number of companies, subsidiaries and departments.
+-
+- ### Help for Accounting Main screen
+- This is the default tab for the Accounting Manager application. The screen currently shows links that will display more detailed screens related to Agreements, Billing Accounts, Invoices and Payments.
+- With accounting application mmenu, it’s possible to have a lot of more details
+-

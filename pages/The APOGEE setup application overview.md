@@ -1,0 +1,2 @@
+- The APOGEE Setup application is supporting for immediate setup your organization. For example, Product Store, WebSite , Facility , product catalog, category , product, and etc. and then be able to create orders from data that is created.
+-

@@ -1,0 +1,1 @@
+- If you have defined multiple ship group, in this screen you can choose for each item (and each quantity) with which group it will be ship

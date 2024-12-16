@@ -1,0 +1,9 @@
+- {:height 179, :width 618}
+- ![sales Order from Backend](../assets/sale order 1.png)
+-
+-
+- Product Store and Customer Details
+- Add Item(s) to cart
+- Set Shipping Method and Payment Term
+- Create Order
+-

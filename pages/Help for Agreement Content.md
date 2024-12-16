@@ -1,0 +1,2 @@
+- This screen use for uploading any contents that concern the agreement. The screen consists of :
+- <ul><li>Add Agreement Content</li><li>Agreement Content List</li></ul>

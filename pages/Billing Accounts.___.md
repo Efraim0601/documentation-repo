@@ -1,0 +1,10 @@
+- A billing account is a way of allowing customers to consolidate several invoices into an account that is paid off at a later date. Customers can be allocated a credit limit and orders can be taken up to the value of the credit limit without any payment being made. Statements to the customer can then be generated (eg monthly) and payment is made based on the outstanding amount.
+- #+BEGIN_IMPORTANT
+  A billing account does not change the flow of the normal Invoice and Payment processes. It simply allows for a more structured organisation of Invoices and Payments..
+  #+END_IMPORTANT
+- Billing Accounts can be used for the following:
+- <ul><li>Setting credit limits for customers</li><li>Keeping track of credit available to customer for purchase on account</li><li>Keeping track of payments made in advance</li>(NOTE TO CHECK: Could also use Financial Account for advance payments but need to understand the differences in functionality and process)<li>Keeping track of a subset of payments and invoices for a specific client, i.e. allowing them to have multiple billing accounts</li>(NOTE TO CHECK: This is from David - does this mean having multiple accounts for one customer or does it mean one billing account can track a hierarchy of invoices and payments…​..)<li>Allow multiple authorised parties to bill against the same account which one party is responsible for paying</li>(e.g. different offices of the same organisation may have one single account with a supplier to make use of order volume discounts)<li>Managing and generating customer statements</li><li>Customer specific order tracking</li><li>Accounts Receivable / Debt Management</li><li>Analysis and monitoring customer spending (creditworthiness / discounts / product popularity ???)</li></ul>
+-
+- #+BEGIN_NOTE
+  A payment that is applied (or matched) to a Billing Account it should still be applied to an invoice. In the case where the payment arrives before the invoice has been generated then once the invoice is generated it should be applied to the payment or payments.
+  #+END_NOTE

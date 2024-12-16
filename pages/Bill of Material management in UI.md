@@ -1,0 +1,7 @@
+- [[Find BOM]]
+- [[Add / edit a BoM]]
+- [[BOM Simulation]]
+	- [[The parameters form]]
+	- [[The simulation overview]]
+- [[Manufacturing rules]]
+	- [[Create / Edit new manufacturing rule]]

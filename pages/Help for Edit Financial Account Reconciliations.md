@@ -1,0 +1,3 @@
+- This screen is used to create or update a reconciliation group / bank reconciliation.
+- The following details can be input or updated for the reconciliation:
+- <ul><li>GL Reconciliation Name or Identifier</li><li>Description for the reconciliation</li><li>Organisation Party Id for the reconciliation</li><li>Opening Balance for the reconciliation</li><li>Reconciliation date</li></ul>

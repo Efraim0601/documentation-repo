@@ -1,0 +1,2 @@
+- The Party Manager application is used to manage the parties, i.e any legal entity your company has to deal with.
+-

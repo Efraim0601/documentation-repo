@@ -1,0 +1,4 @@
+- This screen allows the user to update the payment gateway configuration.
+- A range of parameters need to be set before the payment gateway will work This includes details of the username and password required for the validation of the external account that will be using the gateway.
+- [[How do I update a Payment Gateway Configuration ?]]
+-

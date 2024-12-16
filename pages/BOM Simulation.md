@@ -1,0 +1,1 @@
+- This screen shows the effects of a simulated BOM.

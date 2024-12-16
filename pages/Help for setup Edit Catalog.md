@@ -1,0 +1,6 @@
+- It provides an overview on Catalog, Category, and Product which is the first one of your organization.
+- You will be able to create/edit Catalog, Category, and Product for your organization and also be able to create order by that product.
+- [[How do I create a Catalog ?]]
+- [[How do I update a Catalog ?]]
+-
+-

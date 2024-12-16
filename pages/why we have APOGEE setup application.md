@@ -1,0 +1,1 @@
+- If you are the company and also want to use APOGEE for running your business then you easily be able to setting your information for start running the system quickly via The APOGEE Setup Application.

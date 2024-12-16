@@ -1,0 +1,1 @@
+- This section provides a form for create a new an organization(the first step of setup organization) and also setup the "Billing (AP) Address" , "Payment (AR) Address", "General Correspondence Address", any telephone numbers, and email addresses you want for your Company.

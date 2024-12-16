@@ -1,0 +1,2 @@
+- The dataResourceId points to a DataResource entity that represents content associated with the parent Content entity.
+- The related DataResource could be data that is rendered or it could be a template that indicates how child Content of the parent Content are rendered.

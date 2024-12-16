@@ -1,0 +1,2 @@
+- There are three node types in the tree, each identified by a different icon.
+- <ul><li>The top of the tree represents your Company, the highest level in the organization.</li><li>The Company and departments under the Company can have sub departments or positions.</li><li>Under positions are the people who fulfill the position</li></ul>

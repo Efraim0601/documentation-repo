@@ -1,0 +1,4 @@
+- The Edit First Product Category screen is used to manage the first category with related the first catalog.
+- [[How do I create a Category ?]]
+- [[How do I update a Category?]]
+-

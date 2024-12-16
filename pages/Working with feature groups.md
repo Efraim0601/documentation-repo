@@ -1,0 +1,3 @@
+- Click on [Feature Groups] and you will see a screen showing a list of available feature groups, and an option to create a new feature group at the bottom.
+- Click on the ID of the feature group, and you will be taken to a screen which shows all the features in this group (if there are any) and a menu to add more features to this group.
+- Like feature categories, the IDs of feature groups are automatically created.

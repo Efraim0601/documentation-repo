@@ -1,0 +1,1 @@
+- the fromDate field is part of the primary key.

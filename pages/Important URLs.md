@@ -1,0 +1,4 @@
+- **API**: `https://localhost:8443/rest`
+- **WADL**: `https://localhost:8443/rest/application.wadl`
+- **OpenAPI docs**: `https://localhost:8443/docs/swagger-ui.html`
+-

@@ -1,0 +1,2 @@
+- Manufacturing is the “act of making something out of raw materials”. The 'something' that is manufactured is generally a product that can be on sold to customers.
+- Manufacturing is not only an industrial activity carried out in a factory, it can also be any range of tasks that result in an end product. So, even if you only assemble products you can still make use of OFBiz Manufacturing & MRP.

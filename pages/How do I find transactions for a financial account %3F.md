@@ -1,0 +1,2 @@
+- <ul><li>Press the 'Search' button</li><li>Qlist of transactions for the financial account will be displayed</li></ul>
+-
